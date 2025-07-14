@@ -68,9 +68,9 @@
 
 ## Скриншоты
 
-![Темная тема](screens/Screen 1.jpg)
+![Темная тема](screens/screen_1.jpg)
 
-![Светлая тема](screens/Screen 2.jpg)
+![Светлая тема](screens/screen_2.jpg)
 
 ---
 
