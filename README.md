@@ -62,7 +62,7 @@
 ## Связаться с нами
 
 При возникновении вопросов или предложений обращайтесь на нашу почту или присоединяйтесь к сообществу пользователей на нашем форуме поддержки.
-- Telegram  [@TheFourthDeadlySin](@TheFourthDeadlySin)
+- Telegram  [@Dmity95proger](@TheFourthDeadlySin)
 
 ---
 
